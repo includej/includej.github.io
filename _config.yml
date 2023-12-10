@@ -21,7 +21,7 @@ title: Who.is.dej                        # the main title
 tagline: Have you lost yourself in this labyrinth?   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  My personal website
+  blog, includej
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://includej.github.io'
