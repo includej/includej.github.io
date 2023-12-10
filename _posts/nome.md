@@ -1,11 +1,11 @@
 ---
-title: "He's coming..."
-date: 2023-12-10 00:00:00 +0800
-categories:  [Intro]
-tags: [Intro]
+title: Starting A Blog Hosted On Github Pages
+date: 2023-06-01 20:14 +0300
+categories: [Blogging, Tutorial]
+tags: [github-pages, blog, personal blog, jekyll]
+author: tremo
 ---
 
-# He's coming.
+## My first ever blog post
 
-This is a new story for all of you. 
-Start here.
+I've been thinking about starting a blog for a 
