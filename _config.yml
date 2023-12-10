@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "C:\Users\ko2-dejan\Downloads\wetransfer_sei-blu_2023-12-08_0114\IMGP6303.jpg"
+avatar: '/C:/Users/ko2-dejan/Downloads/wetransfer_sei-blu_2023-12-08_0114/IMGP6303.jpg'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
