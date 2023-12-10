@@ -1,6 +1,6 @@
 ---
 title: "He's coming..."
-date: 2023-12-10 00:00:00 +0800"
+date: 2023-12-10 00:00:00 +0800
 categories:  [Intro]
 tags: [Intro]
 ---
